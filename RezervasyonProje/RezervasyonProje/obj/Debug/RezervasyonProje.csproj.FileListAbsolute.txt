@@ -1,0 +1,19 @@
+E:\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe.config
+E:\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe
+E:\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.pdb
+E:\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.csprojAssemblyReference.cache
+E:\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.csproj.CoreCompileInputs.cache
+E:\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.exe
+E:\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.pdb
+C:\Users\Ali KAVAK\Desktop\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe.config
+C:\Users\Ali KAVAK\Desktop\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.exe
+C:\Users\Ali KAVAK\Desktop\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.pdb
+C:\Users\Ali KAVAK\Desktop\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe
+C:\Users\Ali KAVAK\Desktop\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.pdb
+C:\Users\Ali KAVAK\Desktop\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.csprojResolveAssemblyReference.cache
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe.config
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.exe
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.pdb
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.exe
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\RezervasyonProje\RezervasyonProje\bin\Debug\RezervasyonProje.pdb
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\RezervasyonProje\RezervasyonProje\obj\Debug\RezervasyonProje.csprojResolveAssemblyReference.cache
